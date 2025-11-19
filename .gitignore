@@ -3,3 +3,12 @@ bin/
 .settings/
 .classpath
 .project
+# Eclipse specific files
+.metadata/
+.settings/
+bin/
+.classpath
+.project
+
+# Ignoring other junk
+*.log
